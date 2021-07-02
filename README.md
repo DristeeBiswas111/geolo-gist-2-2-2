@@ -1,1 +1,2 @@
-# geolo-gist-2-2-2
+# Geologist
+Geologist Project
